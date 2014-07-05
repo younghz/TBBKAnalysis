@@ -8,8 +8,9 @@ TBBKAnalysis
 + 工具：Scrapy。Repository内容即为当时实现的代码。
 
 ###数据分析
-+ 分析内容可见上面问题的链接，我在此Repository的Wiki中也整理的分析的精简内容。
++ 分析内容可见上面问题的链接，我在此Repository的[Wiki](https://github.com/younghz/TBBKAnalysis/wiki)中也整理的分析的精简内容。
 + 工具：ipython & matplotlib。
 
-###分析
+###分析内容
+分析内容放在了[Wiki](https://github.com/younghz/TBBKAnalysis/wiki)中，链接：[https://github.com/younghz/TBBKAnalysis/wiki](https://github.com/younghz/TBBKAnalysis/wiki)
 
