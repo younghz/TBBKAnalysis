@@ -98,7 +98,6 @@ class TBBKSpider(Spider):
             print "*******************next page**********************"
             log.msg("Next page", level=log.INFO)
 
-            #在此也发现了scrapy一个机制，就是不会对重复的request执行处理，否则的话这里会不断的返回next_page_url形成死循环
-            #在log信息中也可发现:"Filtered duplicate request"
+            
             for next_page_url in next_page_urls:
                 yield Request(next_page_url, callback=self.parse)
